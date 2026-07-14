@@ -20,8 +20,8 @@ I'm currently preparing for software/IT placements while building toward a long-
 **[Patient-Record-System](https://github.com/TABISH-HK/Patient-Record-System)** — A Java Swing desktop app for managing patient records with MySQL integration and file attachment support.
 
 ## 📫 Reach Me
-- LinkedIn: *add your link here*
-- Email: *add your email here*
+- LinkedIn: https://www.linkedin.com/in/tabish-hasan-598611368/
+- Email: tabishhasan470@gmail.com
 
 ---
 *Currently prepping for campus placements — feel free to check out my progress in the repos below!*
